@@ -1,16 +1,10 @@
-# Todo APP
+# Todo App
 
-A new Flutter project.
+"The Todo App is a popular task management app that helps users organize tasks, deadlines, and reminders. I built this app using Flutter, a User Interface (UI) toolkit, and used Provider (along with RiverPod) for state management. To manage local data storage, I used the Hive package. For handling API requests, I chose to use the Dio package due to its easy-to-use API and powerful interceptor system, which allows for customization and better performance compared to the built-in https package."
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](assets/first.jpg)
+![App Screenshot](assets/second.jpg)
+![App Screenshot](assets/third.jpg)
+![App Screenshot](assets/fourth.jpg)
